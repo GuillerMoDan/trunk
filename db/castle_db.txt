@@ -1,4 +1,4 @@
-// Guild Castles Database
+// Update 2019 Guild Castles Database
 //
 // Structure of Database:
 // CastleID,MapName,CastleName,OnGuildBreakEventName,Flag
